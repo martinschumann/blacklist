@@ -1,0 +1,16 @@
+{
+    "name": "contao-garage/conflicts",
+    "type": "metapackage",
+    "description": "Conflicting packages",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Martin Schumann",
+            "homepage": "https://github.com/martinschumann"
+        }
+    ],
+    "conflict": {
+        "symfony/web-profiler-bundle": "6.4.34"
+    }
+}
+
